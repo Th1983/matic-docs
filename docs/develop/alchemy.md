@@ -20,12 +20,14 @@ If you have questions or concerns, please reach out to the [<ins>official Alchem
 :::
 
 ## What you will learn
+
 To create a smart contract in this tutorial, you will learn how to use Alchemy's platform to:
-- create a smart contract application
-- check the wallet's balance
-- verify calls in the explorer. 
+- Create a smart contract application.
+- Check a wallet's balance.
+- Verify contract calls in an explorer. 
 
 ## What you will do
+
 Following the tutorial, you will:
 1. Get started creating an app on Alchemy
 2. Create a wallet address with Metamask
@@ -83,7 +85,6 @@ You can download and create a Metamask account for free [here](https://metamask.
     #### Symbol: MATIC
     
     #### Block Explorer URL: https://mumbai.polygonscan.com/
-
 
 
 ### Step 4: Add Polygon Mumbai Test MATIC from a Faucet
